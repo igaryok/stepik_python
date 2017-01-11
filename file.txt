@@ -1,0 +1,733 @@
+{
+    "spam": [
+        5,
+        {
+            "spam": {
+                "spam": 0,
+                "bar": true
+            },
+            "quux": {
+                "bar": 4,
+                "baz": false
+            },
+            "foo": 96,
+            "baz": {
+                "spam": [
+                    true,
+                    2
+                ],
+                "quux": "eggs",
+                "bar": {
+                    "spam": true,
+                    "quux": 5,
+                    "foo": 68
+                },
+                "baz": 4
+            }
+        },
+        7,
+        {
+            "spam": {
+                "spam": {
+                    "quux": [
+                        9,
+                        6
+                    ],
+                    "baz": 1
+                },
+                "quux": {
+                    "quux": false,
+                    "baz": 2
+                },
+                "bar": {
+                    "quux": 9,
+                    "foo": 1,
+                    "baz": {
+                        "spam": "python",
+                        "baz": 6
+                    }
+                },
+                "baz": {
+                    "spam": {
+                        "spam": 8,
+                        "foo": 86,
+                        "baz": 5
+                    },
+                    "quux": [
+                        false,
+                        true
+                    ]
+                }
+            },
+            "bar": [
+                0,
+                [
+                    [
+                        "python",
+                        8
+                    ],
+                    {
+                        "spam": "python",
+                        "bar": 3,
+                        "foo": 37
+                    },
+                    [
+                        7,
+                        9,
+                        8
+                    ]
+                ]
+            ]
+        }
+    ],
+    "quux": {
+        "spam": {
+            "spam": 2,
+            "bar": 3,
+            "foo": 84,
+            "baz": "eggs"
+        },
+        "quux": {
+            "spam": {
+                "spam": {
+                    "spam": "eggs",
+                    "foo": 83,
+                    "baz": true
+                },
+                "quux": {
+                    "bar": 4,
+                    "baz": 7
+                }
+            },
+            "quux": {
+                "spam": 8,
+                "quux": "eggs",
+                "bar": {
+                    "spam": 4,
+                    "quux": 5,
+                    "bar": 6,
+                    "foo": 59,
+                    "baz": 1
+                },
+                "baz": {
+                    "spam": 6,
+                    "quux": 1
+                }
+            },
+            "baz": [
+                {
+                    "spam": {
+                        "spam": [
+                            3,
+                            0
+                        ],
+                        "quux": {
+                            "spam": {
+                                "spam": 8,
+                                "bar": 7
+                            },
+                            "quux": [
+                                6,
+                                7
+                            ],
+                            "bar": [
+                                0,
+                                true
+                            ],
+                            "baz": [
+                                3,
+                                9
+                            ]
+                        }
+                    },
+                    "foo": 56,
+                    "baz": {
+                        "spam": [
+                            {
+                                "bar": [
+                                    2,
+                                    6
+                                ],
+                                "baz": 2
+                            },
+                            {
+                                "bar": {
+                                    "bar": 9,
+                                    "foo": 28,
+                                    "baz": true
+                                },
+                                "foo": 35,
+                                "baz": {
+                                    "spam": 7,
+                                    "baz": 1
+                                }
+                            }
+                        ],
+                        "quux": true,
+                        "bar": {
+                            "spam": 3,
+                            "quux": 5
+                        }
+                    }
+                },
+                [
+                    {
+                        "spam": "python",
+                        "foo": 65,
+                        "baz": [
+                            4,
+                            "eggs",
+                            3
+                        ]
+                    },
+                    {
+                        "spam": {
+                            "quux": {
+                                "bar": "python",
+                                "foo": 39,
+                                "baz": false
+                            },
+                            "baz": {
+                                "spam": 4,
+                                "bar": 8
+                            }
+                        },
+                        "quux": [
+                            {
+                                "spam": true,
+                                "quux": 1
+                            },
+                            {
+                                "spam": 4,
+                                "quux": 6
+                            }
+                        ],
+                        "bar": [
+                            3,
+                            {
+                                "spam": 3,
+                                "foo": 29,
+                                "baz": false
+                            }
+                        ],
+                        "foo": 36,
+                        "baz": {
+                            "spam": 0,
+                            "quux": 0,
+                            "foo": 34
+                        }
+                    }
+                ]
+            ]
+        }
+    },
+    "bar": [
+        {
+            "spam": {
+                "spam": false,
+                "quux": 5,
+                "foo": 36
+            },
+            "baz": {
+                "spam": {
+                    "spam": [
+                        "python",
+                        [
+                            4,
+                            8
+                        ]
+                    ],
+                    "bar": {
+                        "quux": 0,
+                        "bar": {
+                            "spam": 9,
+                            "bar": true,
+                            "foo": 49
+                        },
+                        "foo": 8
+                    },
+                    "baz": {
+                        "spam": 5,
+                        "quux": 6,
+                        "bar": 6,
+                        "baz": 5
+                    }
+                },
+                "quux": {
+                    "spam": "eggs",
+                    "baz": false
+                },
+                "foo": 50
+            }
+        },
+        {
+            "spam": {
+                "spam": {
+                    "spam": 9,
+                    "quux": 8
+                },
+                "bar": true,
+                "foo": 10
+            },
+            "quux": {
+                "spam": {
+                    "quux": {
+                        "spam": 6,
+                        "quux": 9,
+                        "foo": 48
+                    },
+                    "foo": 85,
+                    "baz": {
+                        "spam": 2,
+                        "bar": 5
+                    }
+                },
+                "quux": {
+                    "spam": 7,
+                    "foo": 35,
+                    "baz": "python"
+                },
+                "bar": {
+                    "quux": [
+                        6,
+                        0
+                    ],
+                    "bar": [
+                        7,
+                        "python"
+                    ]
+                },
+                "foo": 77,
+                "baz": 6
+            },
+            "baz": {
+                "spam": [
+                    {
+                        "quux": {
+                            "quux": 1,
+                            "bar": 4,
+                            "foo": 62,
+                            "baz": "python"
+                        },
+                        "baz": [
+                            false,
+                            "eggs"
+                        ]
+                    },
+                    {
+                        "spam": {
+                            "bar": [
+                                1,
+                                7
+                            ],
+                            "foo": 79,
+                            "baz": {
+                                "quux": true,
+                                "baz": 3
+                            }
+                        },
+                        "bar": 8,
+                        "foo": 57
+                    },
+                    7,
+                    [
+                        {
+                            "spam": "eggs",
+                            "bar": 7
+                        },
+                        {
+                            "quux": 1,
+                            "foo": 4,
+                            "baz": 6
+                        },
+                        {
+                            "spam": 5,
+                            "baz": "eggs"
+                        }
+                    ]
+                ],
+                "bar": [
+                    {
+                        "spam": 2,
+                        "quux": 8,
+                        "bar": 3
+                    },
+                    {
+                        "spam": "eggs",
+                        "quux": false,
+                        "bar": 2,
+                        "foo": 25,
+                        "baz": 1
+                    },
+                    [
+                        "python",
+                        2
+                    ],
+                    {
+                        "quux": 9,
+                        "bar": [
+                            "eggs",
+                            3
+                        ],
+                        "baz": [
+                            8,
+                            "python"
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "baz": [
+        [
+            {
+                "quux": "python",
+                "bar": {
+                    "spam": true,
+                    "bar": 7
+                },
+                "foo": 18,
+                "baz": "eggs"
+            },
+            [
+                9,
+                false,
+                9,
+                8
+            ],
+            {
+                "spam": 0,
+                "quux": 8,
+                "bar": 5,
+                "foo": 64,
+                "baz": false
+            }
+        ],
+        3,
+        {
+            "spam": {
+                "spam": {
+                    "spam": false,
+                    "bar": 4
+                },
+                "quux": 3,
+                "bar": {
+                    "spam": 5,
+                    "baz": 7
+                },
+                "foo": 54,
+                "baz": {
+                    "spam": "python",
+                    "bar": "python",
+                    "foo": 29
+                }
+            },
+            "quux": {
+                "spam": [
+                    {
+                        "quux": 1,
+                        "bar": "eggs"
+                    },
+                    [
+                        "python",
+                        4
+                    ],
+                    {
+                        "quux": 3,
+                        "foo": 22,
+                        "baz": 1
+                    }
+                ],
+                "quux": 6,
+                "bar": {
+                    "quux": 5,
+                    "bar": 4,
+                    "foo": 33,
+                    "baz": 0
+                },
+                "foo": 23,
+                "baz": [
+                    4,
+                    {
+                        "spam": {
+                            "quux": 5,
+                            "bar": 7
+                        },
+                        "baz": {
+                            "quux": [
+                                "eggs",
+                                1
+                            ],
+                            "bar": [
+                                7,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "spam": 6,
+                        "quux": 1,
+                        "bar": "python",
+                        "foo": 18,
+                        "baz": 7
+                    }
+                ]
+            },
+            "bar": {
+                "spam": [
+                    false,
+                    5
+                ],
+                "quux": [
+                    4,
+                    9
+                ],
+                "bar": {
+                    "quux": false,
+                    "bar": 1
+                },
+                "baz": "eggs"
+            },
+            "foo": 64,
+            "baz": {
+                "spam": {
+                    "spam": 3,
+                    "quux": 1,
+                    "foo": 89
+                },
+                "quux": {
+                    "spam": 6,
+                    "bar": 4,
+                    "baz": 7
+                },
+                "bar": {
+                    "spam": {
+                        "quux": 6,
+                        "bar": 1,
+                        "foo": 97
+                    },
+                    "foo": 52,
+                    "baz": {
+                        "spam": 5,
+                        "quux": "eggs",
+                        "foo": 86
+                    }
+                },
+                "foo": 90,
+                "baz": {
+                    "spam": 1,
+                    "quux": 1,
+                    "bar": 6,
+                    "foo": 59,
+                    "baz": 7
+                }
+            }
+        },
+        [
+            [
+                {
+                    "quux": {
+                        "quux": 0,
+                        "baz": [
+                            4,
+                            3
+                        ]
+                    },
+                    "bar": [
+                        1,
+                        [
+                            9,
+                            true
+                        ],
+                        {
+                            "quux": 7,
+                            "baz": 8
+                        }
+                    ]
+                },
+                {
+                    "spam": {
+                        "spam": {
+                            "quux": {
+                                "bar": 4,
+                                "foo": 28,
+                                "baz": 3
+                            },
+                            "foo": 80,
+                            "baz": 7
+                        },
+                        "quux": {
+                            "spam": 3,
+                            "bar": 0,
+                            "baz": 7
+                        },
+                        "bar": 5,
+                        "foo": 43,
+                        "baz": {
+                            "spam": {
+                                "quux": 8,
+                                "bar": "eggs",
+                                "foo": 95
+                            },
+                            "quux": {
+                                "spam": 1,
+                                "bar": 9
+                            },
+                            "foo": 25
+                        }
+                    },
+                    "bar": {
+                        "spam": [
+                            {
+                                "bar": 2,
+                                "foo": 33,
+                                "baz": 1
+                            },
+                            {
+                                "spam": 0,
+                                "bar": true,
+                                "foo": 64
+                            }
+                        ],
+                        "quux": {
+                            "spam": true,
+                            "quux": 1,
+                            "bar": 4,
+                            "foo": 76,
+                            "baz": 4
+                        },
+                        "baz": {
+                            "bar": {
+                                "quux": 6,
+                                "bar": 5,
+                                "baz": "python"
+                            },
+                            "foo": 44,
+                            "baz": {
+                                "quux": 7,
+                                "baz": [
+                                    1,
+                                    8
+                                ]
+                            }
+                        }
+                    }
+                }
+            ],
+            {
+                "spam": "eggs",
+                "baz": 8
+            },
+            3,
+            {
+                "spam": {
+                    "spam": [
+                        [
+                            6,
+                            true
+                        ],
+                        4,
+                        {
+                            "spam": 3,
+                            "baz": 5
+                        }
+                    ],
+                    "quux": [
+                        4,
+                        2
+                    ],
+                    "bar": 9,
+                    "baz": {
+                        "bar": 6,
+                        "foo": 38,
+                        "baz": 2
+                    }
+                },
+                "quux": [
+                    {
+                        "spam": "eggs",
+                        "quux": 0,
+                        "bar": 9,
+                        "foo": 15
+                    },
+                    [
+                        {
+                            "spam": "eggs",
+                            "bar": false,
+                            "foo": 40
+                        },
+                        [
+                            9,
+                            {
+                                "quux": 4,
+                                "baz": "eggs"
+                            },
+                            [
+                                9,
+                                7,
+                                [
+                                    0,
+                                    5
+                                ]
+                            ]
+                        ],
+                        {
+                            "spam": {
+                                "spam": [
+                                    0,
+                                    "eggs"
+                                ],
+                                "quux": 7,
+                                "bar": [
+                                    2,
+                                    6
+                                ]
+                            },
+                            "quux": {
+                                "spam": "python",
+                                "quux": false,
+                                "foo": 47,
+                                "baz": [
+                                    5,
+                                    1
+                                ]
+                            },
+                            "foo": 99,
+                            "baz": {
+                                "quux": "python",
+                                "bar": 1,
+                                "foo": 13
+                            }
+                        },
+                        {
+                            "quux": {
+                                "spam": 6,
+                                "bar": 0,
+                                "foo": 82,
+                                "baz": 6
+                            },
+                            "bar": {
+                                "spam": {
+                                    "bar": 9,
+                                    "foo": 36,
+                                    "baz": 2
+                                },
+                                "quux": [
+                                    true,
+                                    6
+                                ],
+                                "foo": 17,
+                                "baz": 3
+                            },
+                            "foo": 56,
+                            "baz": [
+                                4,
+                                7
+                            ]
+                        }
+                    ]
+                ]
+            }
+        ]
+    ]
+}
